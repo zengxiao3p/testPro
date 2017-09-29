@@ -1,1 +1,6 @@
 sss
+<<<<<<< HEAD
+=======
+this is a chanege; can you see it ?
+this is total change A.
+>>>>>>> parent of 4f3fce3... totalB
